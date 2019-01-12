@@ -1,0 +1,12 @@
+\babel@toc {english}{}
+\contentsline {section}{\numberline {1}Ph\IeC {\`\acircumflex }n c\IeC {\'\uhorn }ng}{3}
+\contentsline {section}{\numberline {2}Ph\IeC {\`\acircumflex }n m\IeC {\`\ecircumflex }m}{4}
+\contentsline {subsection}{\numberline {2.1}S\IeC {\horn o} \IeC {\dj }\IeC {\`\ocircumflex } kh\IeC {\'\ocircumflex }i}{4}
+\contentsline {subsubsection}{\numberline {2.1.1}S\IeC {\horn o} \IeC {\dj }\IeC {\`\ocircumflex } kh\IeC {\'\ocircumflex }i t\IeC {\h \ocircumflex }ng}{4}
+\contentsline {subsubsection}{\numberline {2.1.2}M\IeC {\^o} h\IeC {\`\i }nh xe kh\IeC {\^o}ng ng\IeC {\horn u}\IeC {\`\ohorn }i l\IeC {\'a}i}{6}
+\contentsline {subsubsection}{\numberline {2.1.3}B\IeC {\d \ocircumflex } \IeC {\dj }i\IeC {\`\ecircumflex }u khi\IeC {\h \ecircumflex }n PI m\IeC {\`\ohorn }}{6}
+\contentsline {subsubsection}{\numberline {2.1.4}Stanley control}{13}
+\contentsline {subsection}{\numberline {2.2}Gi\IeC {\h a}i thu\IeC {\d \acircumflex }t \IeC {\dj }i\IeC {\`\ecircumflex }u khi\IeC {\h \ecircumflex }n}{15}
+\contentsline {subsubsection}{\numberline {2.2.1}Giao di\IeC {\d \ecircumflex }n \IeC {\dj }i\IeC {\`\ecircumflex }u khi\IeC {\h \ecircumflex }n}{15}
+\contentsline {subsection}{\numberline {2.3}Th\IeC {\h \uhorn } nghi\IeC {\d \ecircumflex }m m\IeC {\^o} h\IeC {\`\i }nh}{17}
+\contentsline {subsection}{\numberline {2.4}K\IeC {\'\ecircumflex }t qu\IeC {\h a} \IeC {\dj }i\IeC {\`\ecircumflex }u khi\IeC {\h \ecircumflex }n h\IeC {\d \ecircumflex } th\IeC {\'\ocircumflex }ng th\IeC {\^o}ng qua giao di\IeC {\d \ecircumflex }n}{18}
